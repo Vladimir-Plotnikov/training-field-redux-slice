@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/training-field-redux-slice/static/css/main.7acaea2f.css",
+    "main.js": "/training-field-redux-slice/static/js/main.92d88c34.js",
+    "index.html": "/training-field-redux-slice/index.html",
+    "main.7acaea2f.css.map": "/training-field-redux-slice/static/css/main.7acaea2f.css.map",
+    "main.92d88c34.js.map": "/training-field-redux-slice/static/js/main.92d88c34.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.92d88c34.js"
+  ]
+}
