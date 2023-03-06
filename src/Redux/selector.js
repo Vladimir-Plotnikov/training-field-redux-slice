@@ -1,0 +1,1 @@
+export const getInfos = state => state.contacts;
